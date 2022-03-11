@@ -128,6 +128,8 @@ const nuxtConfig: Configuration = {
     modern: 'client',
   }),
 
+  target: 'static',
+
   buildModules: [
     [
       '@nuxt/typescript-build',
@@ -138,7 +140,12 @@ const nuxtConfig: Configuration = {
     ],
     '@nuxtjs/eslint-module',
     '@nuxtjs/tailwindcss',
+    '@nuxt/image',
   ],
+
+  image: {
+    // Options
+  },
 
   build: {
     html: {

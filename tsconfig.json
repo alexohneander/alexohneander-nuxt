@@ -21,7 +21,7 @@
       "~/*": ["./app/*"],
       "@/*": ["./app/*"]
     },
-    "types": ["@types/node", "@types/jest", "@nuxt/types"]
+    "types": ["@types/node", "@types/jest", "@nuxt/types", "@nuxt/image"]
   },
   "include": ["./app/**/*.ts", "./app/**/*.vue"],
   "exclude": ["node_modules"]

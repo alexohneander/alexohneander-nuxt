@@ -10,6 +10,7 @@
     </svg>
 
     <site-footer />
+    <script src="https://kit.fontawesome.com/1a384e7c1e.js" crossorigin="anonymous"></script>
   </main>
 </template>
 

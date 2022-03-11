@@ -34,10 +34,10 @@
         </div>
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
-        <img
-          alt="Hero"
+        <nuxt-picture
+          src="/images/uploads/alex-wellnitz-web-development.jpg"
           class="rounded shadow-xl"
-          src="https://source.unsplash.com/random/720x400"
+          alt="Hero"
         />
       </div>
     </div>
