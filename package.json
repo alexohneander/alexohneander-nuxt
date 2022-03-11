@@ -34,7 +34,6 @@
         "@nuxtjs/pwa": "^3.0.0-beta.20",
         "@nuxtjs/style-resources": "^1.0.0",
         "fast-glob": "^3.2.2",
-        "ipx": "^0.9.4",
         "node-sass": "^6",
         "nuxt": "^2.13.3",
         "nuxt-property-decorator": "^2.7.2",
@@ -71,6 +70,7 @@
         "jest": "^26.1.0",
         "jest-serializer-vue": "^2.0.2",
         "jest-static-stubs": "0.0.1",
+        "netlify-plugin-ipx": "^0.0.1",
         "prettier": "^2.0.5",
         "ts-jest": "^26.1.1",
         "vue-jest": "^3.0.6"
