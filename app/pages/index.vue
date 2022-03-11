@@ -35,7 +35,7 @@
       </div>
       <div class="flex flex-col w-full xl:w-2/5">
         <nuxt-picture
-          src="/images/uploads/alex-wellnitz-web-development.jpg"
+          src="/images/uploads/alex-wellnitz-web-development.jpeg"
           class="rounded shadow-xl"
           alt="Hero"
         />
